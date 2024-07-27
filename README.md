@@ -6,7 +6,7 @@ Projeto Alura Newsletter com HTML e Tailwind CSS.
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Newsletter**
 | :label: Tecnologias | HTML e Tailwind CSS. 
-| :rocket: URL         | https://andreduarte99.github.io//
+| :rocket: URL         | https://andreduarte99.github.io/aluranewsletter/newsletter.html
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 
