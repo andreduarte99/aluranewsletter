@@ -1,10 +1,10 @@
 # Aluranewsletter
 
-Projeto Aluranewsletter com HTML e Tailwind CSS.
+Projeto Alura Newsletter com HTML e Tailwind CSS.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Aluranewsletter**
+| :sparkles: Nome        | **Alura Newsletter**
 | :label: Tecnologias | HTML e Tailwind CSS. 
 | :rocket: URL         | https://andreduarte99.github.io//
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
@@ -28,7 +28,7 @@ Projeto Aluranewsletter com HTML e Tailwind CSS.
     :hammer_and_wrench: Funcionalidades
 </h3>
 <p align="center">
-   :clipboard: Projeto Aluranewsletter com HTML e Tailwind CSS.
+   :clipboard: Projeto Alura Newsletter com HTML e Tailwind CSS.
 </p>
 <p align="center">
    :clipboard: É possível navegar pelo site nas telas para desktops, tablets e mobile.
